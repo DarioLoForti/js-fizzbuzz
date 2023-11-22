@@ -18,3 +18,6 @@ Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` 
 2 - inserisco condizione per far si che i multipli sia di 3 che di 5 stampino in console "FizzBuzz" 
 3 - inserisco condizione per far si che i multipli di 3 stampino in console "Fizz" 
 4 - inserisco condizione per far si che i multipli di 5 stampino in console "Buzz" 
+5 - creo ul su file index.html
+6 - aggiuno tag li tramite innerhtml su js
+
