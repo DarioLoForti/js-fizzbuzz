@@ -15,6 +15,6 @@ BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
 
 1 - eseguo ciclo FOR per stamapre numeri da 1 a 100
-2 - inserisco condizione per far si che i multipli di 3 stampino in console "Fizz" 
-3 - inserisco condizione per far si che i multipli di 5 stampino in console "Buzz" 
-4 - inserisco condizione per far si che i multipli sia di 3 che di 5 stampino in console "FizzBuzz" 
+2 - inserisco condizione per far si che i multipli sia di 3 che di 5 stampino in console "FizzBuzz" 
+3 - inserisco condizione per far si che i multipli di 3 stampino in console "Fizz" 
+4 - inserisco condizione per far si che i multipli di 5 stampino in console "Buzz" 
