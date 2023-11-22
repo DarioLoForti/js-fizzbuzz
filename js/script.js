@@ -37,7 +37,7 @@ for(i=1; i<=100; i++){
     // 2 - inserisco condizione per far si che i multipli sia di 3 che di 5 stampino in console "FizzBuzz"
 
     if(i%3 == 0 && i%5 == 0){
-        li = `<li id="item-${i}">FizzBuzz ${i}</i>`;
+        li = `<li id="item-${i}">FizzBuzz</i>`;
         list.innerHTML += li;
         console.log("FizzBuzz");
     }
@@ -45,7 +45,7 @@ for(i=1; i<=100; i++){
     // 3 - inserisco condizione per far si che i multipli di 3 stampino in console "Fizz"
 
     else if(i%3 == 0){
-        li = `<li id="item-${i}">Fizz ${i}</i>`;
+        li = `<li id="item-${i}">Fizz</i>`;
         list.innerHTML += li;
         console.log("Fizz");
     }
@@ -53,7 +53,7 @@ for(i=1; i<=100; i++){
     // 4 - inserisco condizione per far si che i multipli di 5 stampino in console "Buzz" 
 
     else if(i%5 == 0){
-        li = `<li id="item-${i}">Buzz ${i}</i>`;
+        li = `<li id="item-${i}">Buzz</i>`;
         list.innerHTML += li;
         console.log("Buzz");
     }
